@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="GiveMeWords"
+  id="myeclipse.1466153773015"
+  context-root="/GiveMeWords"
+  j2ee-spec="5.0"
+  archive="GiveMeWords.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
